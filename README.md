@@ -1,1 +1,1 @@
-# git-synthese
+# Synthèse GIT
